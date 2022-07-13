@@ -2,6 +2,7 @@
 
 
 🔗 Prerequisites
+
 This works on Windows, macOS and Linux. Node Package Manager are required. Make sure you can run node --v. You can get Node at nodejs.org, then install dart-sass using npm install sass --save-dev
 
 🔗 Getting started
